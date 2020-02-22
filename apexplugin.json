@@ -1,30 +1,28 @@
 {
-    "name": "Cool Dashboard Plugin",
-    "version": "1.0.0",
-    "description": "This is a Region Dashboard Plug-in for Oracle APEX that let's you easily create some nice, responsive Cool Dashboard Design Cards. These Cards can be shown in a small Information with your application details with an icon.",
-    "keywords": ["Dashboard","Card Type Dashboard","oracle","apex","Cool Dashboard Plugins","satish"],
-    "homepage": "https://github.com/sattuvirus/cool_dashboard_plugin",
-    "license": "MIT",
-    "author": {
-        "name": "Satish Yadav",
-        "email": "14satishyadav@gmail.com"
-    },
-  "repository": {
-        "type": "git",
-        "url": "https://github.com/sattuvirus/cool_dashboard_plugin.git"
-    },
-    "oracle": {
-        "versions": [
-            "11.2.0.1",
-            "12.1.0.1"
-        ],
-        "apex": {
-            "versions": ["5.1.4","18.1.0","19.1.0","19.2.0"],
-            "plugin": {
-                "internalName": "COOL.DASHBARD.PLUGINS.SATISH",
-                "type": "Region",
-                "demo": "https://apex.oracle.com/pls/apex/f?p=140847:3"
-            }
-        }
+  "name" : "Cool Dashboard Plugin",
+  "version" : "1.0.0",
+   "description": "This is a Region Dashboard Plug-in for Oracle APEX that let's you easily create some nice, responsive Cool Dashboard Design Cards. These Cards can be shown in a small Information with your application details with an icon.",
+  "keywords" : ["Dashboard","Card Type Dashboard","oracle","apex","Cool Dashboard Plugins","satish"],
+  "homepage" : "https://github.com/sattuvirus/cool_dashboard_plugin",
+  "license" : "MIT",
+  "author" : {
+    "name" : "Satish Yadav",
+    "email" : "14satishyadav@gmail.com",
+    "url" : "https://www.ashishsahay.com"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/sattuvirus/cool_dashboard_plugin.git"
+  },
+ "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["5.1.4","18.1.0","19.1.0","19.2.0"],
+      "plugin" : {
+        "internalName" : "COOL.DASHBARD.PLUGINS.SATISH",
+        "type" : "region",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=140847:3",
+        "previewImage" : "https://raw.githubusercontent.com/sattuvirus/cool_dashboard_plugin/master/screenshot.gif"
+      }
     }
-}
+  }
