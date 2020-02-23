@@ -19,8 +19,8 @@ In this Dashboard plugin , Below 12 color classes that you can use in your sql q
 .db2_tara
 
 When you use these Dashboard plugin in Apex, below sql query will help to create sample Dashboard.
-
-							Select 1 as sort_order,
+```
+Select 1 as sort_order,
 'All Data' title,
  '1' DATA1,
 'fa fa-check-square-o ' as icon_class,
@@ -37,7 +37,7 @@ Select 2 as sort_order,
  '2' data1,
   'fa fa-comments'   as  icon_class
      , 'db2_blue'     as  container_class,
-      apex_page.get_url(
+     apex_page.get_url(
     p_page        => 2,
     p_clear_cache => 2,
     p_items       => 'P4_USER_ID',
@@ -49,7 +49,7 @@ from Dual
  '3' data1,
   'fa fa-cubes'   as  icon_class
      , 'db2_green'     as  container_class,
-      apex_page.get_url(
+     apex_page.get_url(
     p_page        => 2,
     p_clear_cache => 2,
     p_items       => 'P4_USER_ID',
@@ -61,14 +61,14 @@ from Dual
  '4' data1,
   'fa fa-tint'   as  icon_class
      , 'db2_orange'     as  container_class,
-      apex_page.get_url(
+    apex_page.get_url(
     p_page        => 2,
     p_clear_cache => 2,
     p_items       => 'P4_USER_ID',
     p_values      => '1') as text
 from Dual 
 order by 1
-
+	```	
 For working Demo just click on:
 <a href ="https://apex.oracle.com/pls/apex/f?p=140847:3"> <h4>Demo</h4></a>
 
