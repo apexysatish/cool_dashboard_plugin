@@ -2,7 +2,7 @@
 
 ![Screenshot](https://raw.githubusercontent.com/sattuvirus/cool_dashboard_plugin/master/screenshot.gif)
 
-This is a Region Dashboard Plug-in for Oracle APEX that let's you easily create some nice, responsive Cool Dashboard Design Cards. These Cards can be shown in a small Information with your application details with an icon.
+This is a Region Dashboard Plug-in for Oracle APEX that let's you easily create some nice, responsive Cool Dashboard Design Cards. These Cards can be shown in a small Information with your application details with an icon and hover effects also added.
 
 In this Dashboard plugin , Below 12 color classes that you can use in your sql query.
 .db2_trendy_pink 
