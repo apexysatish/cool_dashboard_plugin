@@ -5,11 +5,12 @@
 This is a Region Dashboard Plug-in for Oracle APEX that let's you easily create some nice, responsive Cool Dashboard Design Cards. These Cards can be shown in a small Information with your application details with an icon and hover effects also added.
 
 In this Dashboard plugin , Below 12 color classes that you can use in your sql query.
-.db2_trendy_pink 
-.db2_tropical_blue 
+```
+.db2_trendy_pink ,
+.db2_tropical_blue ,
 .db2_inter_orange 
-.db2_azalea 
-.db2_dark_red 
+.db2_azalea ,
+.db2_dark_red ,
 .db2_red,
 .db2_blue,
 .db2_green,
@@ -17,6 +18,7 @@ In this Dashboard plugin , Below 12 color classes that you can use in your sql q
 .db2_pink,
 .db2_gossip,
 .db2_tara
+```
 
 When you use these Dashboard plugin in Apex, below sql query will help to create sample Dashboard.
 ```
