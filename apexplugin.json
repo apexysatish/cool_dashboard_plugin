@@ -1,6 +1,6 @@
 {
   "name" : "Cool Dashboard Plugin",
-  "version" : "1.2.0",
+  "version" : "1.3.0",
    "description": "This is a Region Dashboard Plug-in for Oracle APEX that let's you easily create some nice, responsive Cool Dashboard Design Cards. These Cards can be shown in a small Information with your application details with an icon.",
   "keywords" : ["Dashboard","Card Type Dashboard","oracle","apex","Cool Dashboard Plugins","satish"],
   "homepage" : "https://github.com/sattuvirus/cool_dashboard_plugin",
