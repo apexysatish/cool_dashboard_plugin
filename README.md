@@ -70,15 +70,15 @@ from Dual
     p_values      => '1') as text
 from Dual 
 order by 1
+```
+<b>Note:-In the Latest Verison Please use below CSS code in your page.</b>
+```
+.apex-row {
+     display: block;
+     flex-wrap: wrap; 
+}
 ```	
 For working Demo just click on:
 <a href ="https://apex.oracle.com/pls/apex/f?p=140847:3"> <h4>Demo</h4></a>
 
 If you like my stuff, Please Like share and comment.
-
-In the Latest Verison Please use below CSS code in your page.
-
-.apex-row {
-     display: block;
-     flex-wrap: wrap; 
-}
